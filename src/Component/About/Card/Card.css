@@ -1,0 +1,33 @@
+.Card .cards {
+margin-left: 10px;
+text-align: center;}
+/* icon */
+.Card .cards h2 {
+  color: rgb(212, 143, 14);
+}
+/* p */
+.Card .cards p {
+  color: gray;
+  letter-spacing: 1px;
+}
+/* h1 */
+.Card .cards h1 {
+  font-size: 34px;
+  color: rgb(238, 235, 235);
+  /* text-align: left; */
+  margin-top: -5px;
+  margin-top: 20px;
+}
+/* div cards */
+.Card .cards {
+  width: 450px;
+}
+/* div carddsss */
+.Card .carddsss {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+  margin: auto;
+  text-align: left;
+  margin-top: 100px;
+}

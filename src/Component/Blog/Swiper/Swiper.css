@@ -1,0 +1,17 @@
+.swiper h1 {
+  color: gray;
+  text-align: center;
+  text-transform: capitalize;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.swiper img {
+  width: 100%;
+  height: 600px;
+}
+
+.swiper {
+  margin-bottom: 0px;
+  /* border-bottom: 2px solid gray; */
+  padding-bottom: 100px;
+}

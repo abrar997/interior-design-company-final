@@ -1,0 +1,54 @@
+footer {
+  border-top: 3px solid gray;
+  margin-top: 120px;
+}
+
+#button-addon1 {
+  color: rgb(212, 143, 14);
+}
+
+i {
+  color: rgb(212, 143, 14);
+}
+
+.form-control::placeholder {
+  font-size: 0.95rem;
+  color: #aaa;
+  font-style: italic;
+}
+
+.form-control.shadow-0:focus {
+  box-shadow: none;
+}
+footer h6 {
+  color: rgb(212, 143, 14);
+}
+
+footer ul li a {
+  text-decoration: none;
+  color: rgb(219, 204, 204);
+}
+footer ul li a:hover {
+  color: gray;
+}
+footer .copyright {
+  margin: auto;
+  color: rgb(209, 205, 205);
+  text-align: center;
+  margin-top: 80px;
+  word-spacing: 3px;
+}
+
+footer .copyright span {
+  color: rgb(212, 143, 14);
+}
+
+footer .logo h1 {
+  margin-top: -1px;
+  font-family: "Alegreya", serif;
+  font-family: "Berkshire Swash", cursive;
+  color: #aaa;
+}
+footer .logo h1 span {
+  color: rgb(212, 143, 14);
+}

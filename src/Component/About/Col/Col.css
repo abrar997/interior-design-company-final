@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,500;1,400&family=Berkshire+Swash&family=Indie+Flower&display=swap");
+/*   font-family: "Alegreya", serif;
+  font-family: "Berkshire Swash", cursive; */
+/*  color: rgb(212, 143, 14); */
+.Col .container .row .image img {
+  width: 100%;
+  height: 600px;
+  margin-top: 70px;
+}
+.Col .container .row .text {
+  margin-top: 240px;
+}
+
+.Col .container .row .text span {
+  color: rgb(212, 143, 14);
+}
+
+.Col .container .row .text h2 {
+  color: rgb(238, 235, 235);
+  font-family: "Alegreya", serif;
+  font-family: "Berkshire Swash", cursive;
+  font-size: 35px;
+  padding-top: 10px;
+}
+.about h2 span {
+  color: rgb(212, 143, 14);
+  text-transform: capitalize;
+}
+
+.Col .container .row .text p {
+  color: rgb(190, 187, 181);
+}
+
+.Col .container .row .text h1 {
+  color: rgb(231, 225, 225);
+  text-align: left;
+  font-size: 90px;
+  margin-top: -20px;
+}
+
+.Col .container .row .text .ex {
+  color: rgb(212, 143, 14);
+  font-size: 18px;
+  text-transform: uppercase;
+}

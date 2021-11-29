@@ -1,0 +1,84 @@
+.contact {
+  height: 900px;
+  padding-bottom: 100px;
+}
+.contact .container .row h1 {
+  text-align: center;
+  color: rgb(233, 230, 230);
+  font-family: "Alegreya", serif;
+  font-family: "Berkshire Swash", cursive;
+  font-size: 45px;
+  margin-top: 90px;
+  margin-bottom: 0px;
+  line-height: 90px;
+}
+
+.contact .container .row h1 a {
+  color: rgb(212, 143, 14);
+}
+
+.form-label {
+  color: rgb(212, 143, 14);
+  font-size: 16px;
+}
+
+.left {
+  box-shadow: 1px 1px 17px gray;
+  margin-bottom: -50px;
+}
+
+.left .form-control {
+  background-color: #eee;
+  outline: none;
+  border: 2px solid rgb(219, 218, 218);
+  width: 400px;
+}
+.left form {
+  padding: 50px;
+}
+.left ::placeholder {
+  color: rgb(116, 115, 115);
+}
+
+.left .btn {
+  background-color: rgba(94, 91, 91, 0.315);
+  outline: none;
+  border: none;
+  padding: 10px;
+  width: 170px;
+  font-size: 22px;
+  color: white;
+  font-family: "Alegreya", serif;
+  font-family: "Berkshire Swash", cursive;
+  margin-top: 10px;
+  margin-left: 110px;
+}
+
+.left .btn:hover {
+  background-color: rgba(155, 154, 154, 0.315);
+  outline: none;
+}
+
+.contact .right {
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.contact .right ul {
+  list-style-type: none;
+}
+
+.contact .right ul li {
+  color: rgb(212, 143, 14);
+  margin-top: 30px;
+  border-bottom: 1px solid rgb(219, 218, 218);
+  padding-bottom: 20px;
+  font-size: 20px;
+}
+.contact .right ul li a {
+  cursor: pointer;
+  margin-left: 30px;
+}
+
+.contact .right ul li a:hover {
+  color: rgb(219, 218, 218);
+}

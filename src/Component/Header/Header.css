@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,500;1,400&family=Berkshire+Swash&family=Indie+Flower&display=swap");
+body {
+  background: url("./Images/back2.webp") repeat;
+}
+.container .row .navbar {
+  margin: auto;
+  margin-top: 40px;
+  font-family: "Alegreya", serif;
+  font-family: "Berkshire Swash", cursive;
+  box-shadow: 1px 1px 17px rgb(190, 187, 181);
+}
+.navbar-brand {
+  color: white;
+  font-size: 28px;
+}
+.navbar-brand:hover {
+  color: white;
+}
+.navbar-brand .span {
+  color: rgb(212, 143, 14);
+  font-size: 30px;
+}
+
+.container .row .navbar .collapse {
+  margin-left: 650px;
+}
+
+.container .row .navbar .collapse .nav-item {
+  font-size: 22px;
+  margin-left: 25px;
+  text-transform: capitalize;
+}
+
+.container .row .navbar .collapse .nav-item a {
+  color: white;
+  text-decoration: none;
+}
+.container .row .navbar .collapse .nav-item a:hover {
+  color: rgb(212, 143, 14);
+  border-bottom: 1px solid rgb(212, 143, 14);
+  padding-bottom: 2px;
+  transition: all 0.5s ease;
+}

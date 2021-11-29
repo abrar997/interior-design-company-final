@@ -1,0 +1,30 @@
+/*   font-family: "Alegreya", serif;
+  font-family: "Berkshire Swash", cursive; */
+
+@import url("https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,500;1,400&family=Berkshire+Swash&family=Indie+Flower&display=swap");
+.blog .container .row h1 {
+  text-align: center;
+  color: rgb(238, 235, 235);
+  font-family: "Alegreya", serif;
+  font-family: "Berkshire Swash", cursive;
+  margin-top: 60px;
+  font-size: 50px;
+}
+.blog {
+  color: white;
+}
+.blog button .firstArticle {
+  overflow: hidden;
+}
+.blog .container .row .delete button {
+  margin-top: -660px;
+  margin-left: 1170px;
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  border: none;
+  width: 39;
+  height: 39;
+  text-align: right;
+  position: absolute;
+  outline: none;
+}

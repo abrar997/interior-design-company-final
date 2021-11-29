@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,500;1,400&family=Berkshire+Swash&family=Indie+Flower&display=swap");
+
+.articles {
+  margin-top: 100px;
+  overflow: hidden;
+}
+.arti .images {
+  overflow-x: hidden;
+}
+
+.arti img {
+  width: 90%;
+  height: 500px;
+  margin: auto;
+  filter: brightness(0.9);
+  transition: all 0.7s ease-in-out;
+}
+
+.articles img:hover {
+  /* transform: scale(0.9); */
+  transition: all 0.7s ease-in-out;
+  filter: brightness(0.7);
+}
+
+.arti .desc {
+  display: flex;
+  flex-flow: row;
+  color: gray;
+  word-spacing: 5px;
+  margin-left: 510px;
+  margin-top: 40px;
+}
+
+.desc span {
+  margin-left: 15px;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.desc a:hover {
+  color: rgb(167, 163, 163);
+}
+.desc span:hover {
+  color: rgb(167, 163, 163);
+}
+
+.desc p:hover {
+  color: rgb(167, 163, 163);
+}
+
+.arti {
+  text-align: center;
+}
+
+.arti .textss h2 {
+  color: rgb(219, 219, 219);
+  font-family: "Alegreya", serif;
+  font-family: "Berkshire Swash", cursive;
+}
+
+.arti .textss h5 {
+  color: gray;
+  font-size: 15px;
+  margin-top: 10px;
+}
+
+.arti .textss p {
+  color: rgb(212, 143, 14);
+  font-size: 19px;
+  margin-bottom: 100px;
+  margin-top: 30px;
+  cursor: pointer;
+}
+Link p {
+  text-decoration: none;
+}

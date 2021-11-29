@@ -1,0 +1,12 @@
+.about h1 {
+  text-align: center;
+  color: rgb(238, 235, 235);
+  font-family: "Alegreya", serif;
+  font-family: "Berkshire Swash", cursive;
+  margin-top: 60px;
+  font-size: 40px;
+}
+.about h1 span {
+  color: rgb(212, 143, 14);
+  text-transform: capitalize;
+}
